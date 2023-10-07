@@ -1,4 +1,4 @@
-package interface_adapter;
+package entity;
 
 public class UserCreationFailed extends RuntimeException {
     public UserCreationFailed(String error) {
